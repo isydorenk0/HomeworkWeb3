@@ -1,0 +1,1 @@
+Title | Type | Frequency | Color | Gloss | Pages | IndexMagazUA | magazine | annually | true | true | 500 | 123456AANewsUA | newspaper | daily | true | false | 50 | 1456AA
